@@ -3,6 +3,7 @@
 
 ![love](https://forthebadge.com/images/badges/built-with-love.svg)
 ![jupyternotebooks](https://img.shields.io/badge/jupyter_notebook-e67e22?style=for-the-badge&logo=jupyter&logoColor=white)
+![reposize](https://img.shields.io/github/repo-size/slowy07/AIProjects?color=green&style=for-the-badge)
 
 
 
