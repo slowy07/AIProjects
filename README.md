@@ -1,4 +1,4 @@
 # AIProjects
 
 collection of AI projects:
-- [computational biology](computational biology/)
+- [computational biology](https://github.com/slowy07/AIProjects/tree/main/computational%20biology)
